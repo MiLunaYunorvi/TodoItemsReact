@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/TodoItemsReact/static/css/main.33006d2a.css",
+    "main.js": "/TodoItemsReact/static/js/main.077db5d3.js",
+    "static/media/tree.svg": "/TodoItemsReact/static/media/tree.a9927875ca2b9aa0d30a6eeedf417f77.svg",
+    "static/media/check2.png": "/TodoItemsReact/static/media/check2.8d847d88759afad4faaa.png",
+    "static/media/Coco.svg": "/TodoItemsReact/static/media/Coco.254928eda13765357a71c3fdb016e0c9.svg",
+    "static/media/cruzar.png": "/TodoItemsReact/static/media/cruzar.fad30b96934d33723aef.png",
+    "static/media/sun.svg": "/TodoItemsReact/static/media/sun.b516843bb276210985803f83d098e173.svg",
+    "index.html": "/TodoItemsReact/index.html",
+    "main.33006d2a.css.map": "/TodoItemsReact/static/css/main.33006d2a.css.map",
+    "main.077db5d3.js.map": "/TodoItemsReact/static/js/main.077db5d3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33006d2a.css",
+    "static/js/main.077db5d3.js"
+  ]
+}
